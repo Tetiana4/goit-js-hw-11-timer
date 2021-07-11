@@ -23,9 +23,9 @@ function counts() {
   if (gap < 0) {
     Swal.fire({
   icon: 'error',
-  title: 'Oops...',
-  text: 'Something went wrong!',
-  footer: '<a href="">Why do I have this issue?</a>'
+  title: 'Ooops...',
+  text: 'Видел как сыграла Украина на Евро 2020?!',
+  footer: '<a href="">Выбери нормальную дату</a>'
     })
     return
   }
